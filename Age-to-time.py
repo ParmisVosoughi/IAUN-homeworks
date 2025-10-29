@@ -8,3 +8,5 @@ seconds = minutes * 60
 print(f"ثانیه: {seconds}")
 print(f"دقیقه: {minutes}")
 print(f"ساعت: {hours}")
+
+#Parmis-vosoughi
